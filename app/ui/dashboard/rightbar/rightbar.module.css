@@ -1,0 +1,25 @@
+.container {
+  background-color: var(--bgSoft);
+  border-radius: 10px;
+  padding: 20px;
+  height: 100vh;
+}
+
+.title {
+  font-weight: 200;
+  color: var(--textSoft);
+  margin-bottom: 20px;
+}
+
+.pieCharts {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.pieChart1 {
+  height: 240px;
+}
+.pieChart2 {
+  height: 240px;
+}
